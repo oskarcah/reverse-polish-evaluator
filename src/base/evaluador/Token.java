@@ -1,5 +1,7 @@
+package base.evaluador;
+
 /**
- * Representa un token leido de la entrada de datos
+ * Representa un token leido de la entrada de datos.
  */
 public class Token {
   
